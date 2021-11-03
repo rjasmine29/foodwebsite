@@ -1,6 +1,7 @@
 @media only screen and (max-width: 800px) {
     body > header h1 {
         background-color: brown;
+        text-transform: uppercase;
     } 
 
 }
