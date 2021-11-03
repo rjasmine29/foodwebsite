@@ -3,8 +3,9 @@
         background-color: rgb(129, 179, 194);
         text-transform: uppercase;
     } 
-    nav ul {  /*not entirely working here... */
+    nav ul {  
         background-color: black;
+        width: 50%;
         
     }
 
