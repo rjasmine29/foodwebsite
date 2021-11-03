@@ -1,7 +1,11 @@
 @media only screen and (max-width: 800px) {
     body > header h1 {
-        background-color: brown;
+        background-color: rgb(129, 179, 194);
         text-transform: uppercase;
     } 
+    nav ul {  /*not entirely working here... */
+        background-color: black;
+        
+    }
 
 }
